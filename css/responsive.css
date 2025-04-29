@@ -1,0 +1,1449 @@
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+
+
+@media screen and (min-width: 1379px) and (max-width: 1480px) {
+.headerbrimg {
+    width: 347px;
+    height: 270px;
+}
+
+.header-logo img {
+    width: 135px;
+    height: 88px;
+}
+
+}
+
+
+
+
+@media screen and (min-width: 1280px) and (max-width: 1378px) {
+.headerbrimg {
+    width: 233px;
+    height: 205px;
+}
+
+.header-logo img {
+    width: 135px;
+    height: 88px;
+}
+
+}
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 1200px) and (max-width: 1279px) {
+.container {
+    padding: 0 30px;
+}
+
+
+
+
+.bigwinlty-part {
+    background-image: initial;
+}
+
+
+.mbbigwinlty-part {
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+}
+
+
+.reviewsbox {
+    width: 98%;
+}
+
+.footer-part {
+    display: flex;
+    gap: 50px;
+}
+
+.footer-nav ul li a {
+    font-size: 15px;
+}
+
+.footer-nav ul li {
+    padding-right: 34px;
+}
+
+.footerlogos ul li {
+    margin-right: 16px;
+}
+
+.footerlogos ul li a img {
+    height: 53px;
+}
+
+.topbg {
+    max-width: 37%;
+}
+
+
+.footerright {
+    padding-left: 18px;
+}
+
+
+.latesthotrlsrt-right ul li {
+    font-size: 16px;
+    width: 42px;
+    height: 42px;
+    line-height: 42px;
+    margin-right: 2px;
+}
+
+
+.latesthotrlsrt-box {
+    grid-row-gap: 63px;
+}
+
+
+.latesthotrlsrt-text p {
+    font-size: 15px;
+}
+
+
+.headerbrimg {
+    width: 233px;
+    height: 205px;
+}
+
+.header-logo img {
+    width: 135px;
+    height: 88px;
+}
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+.container {
+    padding: 0 30px;
+}
+
+
+
+.bigwinlty-part {
+    background-image: initial;
+}
+
+
+.mbbigwinlty-part {
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+}
+
+
+
+
+
+.reviewsbox {
+    width: 100%;
+}
+
+.footer-part {
+    display: flex;
+    gap: 50px;
+}
+
+.footer-nav ul li a {
+    font-size: 15px;
+}
+
+.footerright {
+    width: 25%;
+    padding-left: 0px;
+}
+
+.footerleft {
+    width: 75%;
+}
+
+.pyWrLottery-part {
+    gap: 37px;
+}
+
+
+.pljs-boxs {
+    width: 231px;
+    height: 254px;
+    margin: auto;
+    margin-right: 0;
+}
+
+
+
+.topbg {
+    position: absolute;
+    right: 0;
+    top: 0;
+    max-width: 48%;
+}
+
+
+
+
+
+.mainheroleft {
+    position: relative;
+    z-index: 999;
+    margin-top: 0px;
+    padding-top: 33px;
+}
+
+
+
+
+.faqleft p {
+    padding-right: 0px;
+}
+
+.ziehharmonika > div {
+    padding: 16px 30px;
+    padding-top: 0px;
+}
+
+
+
+
+.heroright h2 {
+    font-size: 40px;
+}
+
+
+.heroright {
+    padding: 44px 15px;
+    box-sizing: border-box;
+    height: 256px;
+    width: 30%;
+}
+
+.heroleft {
+    width: 70%;
+}
+
+.timer p {
+    font-size: 11px;
+}
+
+
+.timer span {
+    font-size: 21px;
+    line-height: 50px;
+    width: 46px;
+    height: 50px;
+    margin-bottom: 5px;
+}
+
+.herolefttext h2 {
+    font-size: 94px;
+}
+
+
+.joinwinners-part {
+    padding: 0px 35px;
+}
+
+.joinwinners-left {
+    width: 55%;
+}
+
+.joinwinners-right {
+    width: 45%;
+}
+
+.headerbrimg {
+    width: 233px;
+    height: 205px;
+}
+
+.header-logo img {
+    width: 135px;
+    height: 88px;
+}
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+.container {
+    padding: 0 30px;
+}
+
+
+.bigwinlty-part {
+    background-image: initial;
+    display: block;
+}
+
+.bigwinlty-left {
+    width: 100%;
+    margin-bottom: 60px;
+}
+
+
+
+
+.mbbigwinlty-part {
+    background-position: bottom;
+}
+
+
+
+
+
+.mainfaqpart {
+    display: block;
+}
+
+
+.faqright {
+    width: 100%;
+    margin-top: 60px;
+}
+
+.faqleft {
+    width: 100%;
+}
+
+
+
+
+
+
+.footer-part {
+    display: block;
+}
+
+.footerleft {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.footerright {
+    width: 100%;
+    padding-left: 0px;
+}
+
+
+
+.footer-area {
+    padding: 60px 0;
+    padding-bottom: 0px;
+}
+
+.footer-nav ul {
+    padding-top: 30px;
+}
+
+.topbg {
+    position: absolute;
+    right: 0;
+    top: 0;
+    max-width: 58%;
+}
+
+
+.heropart {
+    display: block;
+}
+
+
+.cmheroleft {
+    display: none;
+}
+
+
+
+
+.mainheroleft {
+    position: relative;
+    z-index: 999;
+    margin-top: 0px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+
+
+.latesthotrlsrt-item {
+    padding: 30px 15px;
+    gap: 30px;
+}
+
+
+.latesthotrlsrt-right ul li {
+    font-size: 14px;
+    width: 32px;
+    height: 32px;
+    line-height: 32px;
+    margin-right: 0;
+    margin: 0 1px;
+}
+
+.joinwinners-part {
+    display: block;
+    padding: 0px 50px;
+}
+
+.joinwinners-left {
+    width: 100%;
+    padding: 40px 0;
+}
+
+.joinwinners-right {
+    width: 100%;
+}
+
+.playreviews-heading p {
+    padding-right: 0px;
+    margin-bottom: 0px;
+}
+
+.playreviews-heading p br {
+    display: none;
+}
+
+
+.reviewsbox {
+    width: 98%;
+}
+
+.playreviews-area {
+    padding: 80px 0;
+}
+
+
+
+.faq-heading h2 br {
+    display: none;
+}
+
+.ziehharmonika > div {
+    font-size: 15px;
+    line-height: 27px;
+    padding: 16px 30px;
+    padding-top: 3px;
+}
+
+
+
+
+
+
+.newhero-heading h2 {
+    font-size: 40px;
+    line-height: 41px;
+    padding-bottom: 25px;
+}
+
+.newhero-heading p {
+    font-size: 16px;
+}
+
+.newheroitem1 h3 {
+    font-size: 20px;
+    line-height: 28px;
+    padding-bottom: 18px;
+}
+
+.newheroitem1 p {
+    font-size: 16px;
+}
+
+.newheroitem1 h5 {
+    font-size: 16px;
+    line-height: 28px;
+    padding-bottom: 18px;
+}
+
+.headerbrimg {
+    width: 204px;
+    height: 176px;
+}
+
+.header-logo img {
+    display: block;
+    width: 135px;
+    height: 88px;
+}
+
+.herotextpart h1 {
+    font-size: 45px;
+    line-height: 65px;
+    padding-bottom: 31px;
+    text-align: center;
+}
+
+
+.heroleft {
+    width: 100%;
+    height: initial;
+    padding-top: 24px;
+    margin-bottom: 50px;
+    align-items: end;
+}
+
+.heroright {
+    width: 100%;
+}
+
+
+.pyWrLottery-part {
+    padding-bottom: 70px;
+    gap: 30px;
+    align-items: center;
+}
+
+
+.pyWrLottery-left {
+    width: 65%;
+}
+
+.pyWrLottery-right {
+    width: 35%;
+}
+
+.pljsitem h2 {
+    font-size: 35px;
+    line-height: 39px;
+    padding-bottom: 8px;
+}
+
+.pljs-boxs {
+    width: 237px;
+    height: 242px;
+    margin: auto;
+    margin-right: 0;
+}
+
+.playreviews-part {
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 20px;
+    grid-row-gap: 28px;
+}
+
+
+.faq-area {
+    padding: 90px 0;
+    padding-top: 0px;
+}
+
+.latesthotrls-area {
+    padding: 0px 0;
+    padding-bottom: 0px;
+}
+
+
+
+
+
+}
+
+
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 767px) {
+
+
+
+.topheader-area {
+    padding: 5px 10px;
+}
+
+
+
+.topheader-left p {
+    font-size: 10px;
+    margin: 0;
+    font-weight: 600;
+    display: flex;
+    text-align: left;
+    line-height: 13px;
+}
+
+
+
+.ziehharmonika > div {
+    font-size: 14px;
+    line-height: 24px;
+    padding: 13px 16px;
+    padding-top: 0px;
+}
+
+
+.header-btn ul li a {
+    font-size: 13px;
+    width: 70px;
+    height: 38px;
+    line-height: 38px;
+    font-weight: 600;
+
+}
+
+.header-btn ul li {
+    padding-left: 5px;
+}
+
+.header-logo {
+    width: 30%;
+}
+
+.header-btn {
+    width: 70%;
+}
+
+.header-btn ul li:nth-child(2) a {
+    width: 80px;
+    height: 36px;
+    line-height: 36px;
+}
+
+.header-btn ul li:nth-child(1) a {
+    font-size: 12px;
+    height: 36px;
+    line-height: 36px;
+    width: 70px;
+}
+
+.header-btn ul li:nth-child(2) a {
+    font-size: 12px;
+}
+
+
+
+.header-logo img {
+    display: block;
+    width: 86px;
+    height: 56px;
+}
+
+.playreviews-area {
+    padding: 35px 0;
+    padding-bottom: 0px;
+}
+
+
+
+
+
+.reviewsbox {
+    padding: 30px 15px;
+    width: 100%;
+    margin-bottom: 0px;
+}
+
+
+
+
+.faq-area {
+    padding: 40px 0;
+    position: relative;
+    padding-top: 35px;
+}
+
+
+.mainfaqpart {
+    display: block;
+}
+
+.faqleft {
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+
+
+
+.faqright {
+    width: 100%;
+}
+
+
+.ziehharmonika h3 {
+    font-size: 14px;
+    padding: 15px 16px;
+    margin-bottom: 10px;
+}
+
+.ziehharmonika .collapseIcon img {
+    max-width: 76%;
+}
+
+.ziehharmonika .collapseIcon {
+    right: 12px;
+}
+
+.ziehharmonika > div span {
+    margin-bottom: 10px;
+}
+
+
+
+
+.faq-heading h2 {
+    font-size: 25px;
+    line-height: 40px;
+}
+
+.faq-heading {
+    padding-bottom: 25px;
+}
+
+.footer-area {
+    padding: 40px 0;
+    padding-bottom: 0px;
+}
+
+.footer-part {
+    display: block;
+}
+
+.footerleft {
+    width: 100%;
+}
+
+
+
+.footertext {
+    padding-top: 30px;
+}
+
+.footertext p {
+    font-size: 13px;
+    line-height: 25px;
+    padding-bottom: 12px;
+}
+
+.footerlogos ul {
+    padding-top: 32px;
+    text-align: left;
+    padding-bottom: 20px;
+}
+
+.footerlogos ul li {
+    display: inline-block;
+    margin-right: 2px;
+    padding-bottom: 0px;
+}
+
+.footerlogos ul li a img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+    height: 32px;
+}
+
+.footer-nav ul {
+    padding-top: 0px;
+    padding-bottom: 15px;
+}
+
+.footer-nav ul li {
+    display: block;
+    padding-right: 0;
+    padding-bottom: 25px;
+}
+
+.footer-nav ul li a {
+    font-size: 14px;
+}
+
+
+
+
+.footer-copyright {
+    padding: 12px 5px;
+    margin-top: 10px;
+}
+
+.footer-copyright p {
+    font-size: 12px;
+}
+
+
+
+
+
+.popuppart {
+    width: 300px;
+    display: block;
+    margin: auto;
+    height: initial;
+}
+
+.popupleft {
+    width: 100%;
+    display: none;
+}
+
+
+
+.popupright {
+    width: 100%;
+    height: 100%;
+    display: grid;
+    align-items: center;
+    padding: 30px 15px;
+    box-sizing: border-box;
+    border-radius: 15px;
+    margin-left: 0px;
+    position: relative;
+    z-index: 9;
+}
+
+
+.popupform-heading h3 {
+    font-size: 18px;
+}
+
+.popupform-heading p {
+    font-size: 12px;
+}
+
+.popupform-item1 {
+    display: block;
+}
+
+.ppform-item1-left {
+    width: 100%;
+}
+
+.ppform-item1-right {
+    width: 100%;
+}
+
+.popupformitems p {
+    font-size: 12px;
+    line-height: 18px;
+    padding-bottom: 18px;
+}
+
+.popupformitems input {
+    font-size: 14px;
+    width: 100%;
+    padding: 13px 14px;
+    outline: none;
+    margin-bottom: 6px;
+    height: inherit;
+}
+
+.popupformitems input::placeholder {
+    font-size: 14px;
+}
+
+.popupform-heading {
+    padding-bottom: 15px;
+}
+
+
+.popupformitems h6 {
+    font-size: 9px;
+    font-weight: 400;
+    line-height: 18px;
+    margin-top: -6px;
+    margin-bottom: 10px;
+}
+
+.popupformitems input[type="submit"] {
+    font-size: 14px;
+    padding: 14px 14px;
+    margin-bottom: 0px;
+}
+
+.toggle-password img {
+    width: 15px;
+    height: 15px;
+}
+
+.toggle-password {
+    right: 6px;
+    top: 9px;
+}
+
+.checkmark {
+    top: 4px;
+    height: 14px;
+    width: 14px;
+    border-radius: 0px;
+}
+
+.checkboxpart .checkmark:after {
+    left: 5px;
+    top: 1px;
+    width: 3px;
+    height: 8px;
+}
+
+.checkboxpart {
+    padding-left: 23px;
+    font-size: 12px;
+    padding-right: 0px;
+    line-height: 24px;
+}
+
+.popupform-item3 h5 {
+    font-size: 14px;
+    padding-top: 18px;
+}
+
+.loginPopupst h6 a {
+    font-size: 14px;
+}
+
+.maincheckbox {
+    padding-bottom: 20px;
+    margin-top: 11px;
+}
+
+.mainnewrbmeft {
+    padding-top: 5px;
+    padding-bottom: 8px;
+}
+
+.close-btn img {
+    width: 18px;
+    height: 18px;
+}
+
+.close-btn {
+    width: 35px;
+    height: 35px;
+    top: -4px;
+    right: -4px;
+}
+
+.popupform-logo img {
+    width: 119px;
+    height: 119px;
+    display: block;
+    margin: auto;
+}
+
+.rbmeftpd-right p a {
+    font-size: 12px;
+}
+
+
+.topbg {
+    position: absolute;
+    right: 0;
+    top: 0;
+    max-width: 80%;
+}
+
+
+
+
+.container {
+    padding: 0 16px;
+}
+
+
+.hero-area {
+    padding: 40px 0;
+}
+
+.heropart {
+    display: block;
+}
+
+
+.heroleft {
+    width: 100%;
+    position: relative;
+    height: initial;
+    display: block;
+    margin: auto;
+    margin-bottom: 35px;
+    overflow: hidden;
+}
+
+.mainheroright {
+    width: 100%;
+    padding-right: 0px;
+}
+
+
+.mainheroleft {
+    margin-top: 0px;
+    padding-top: 17px;
+    width: 100%;
+}
+
+.mainheroright img {
+    max-width: 95%;
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.heroright {
+    width: 100%;
+}
+
+.timer span {
+    font-size: 16px;
+    line-height: 38px;
+    width: 36px;
+    height: 38px;
+    display: block;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    font-weight: 600;
+}
+
+.timer {
+    gap: 5px;
+    padding-top: 9px;
+}
+
+.timer p {
+    font-size: 9px;
+}
+
+.herolefttext h2 {
+    font-size: 65px;
+    line-height: 44px;
+}
+
+
+
+
+
+
+
+
+.latesthotrls-area {
+    padding: 0px 0;
+    padding-top: 0px;
+}
+
+
+
+
+.latesthotrlsrt-item {
+    display: block;
+    border-radius: 15px;
+    padding: 30px 15px;
+    height: initial;
+}
+
+.latesthotrlsrt-text {
+    width: 100%;
+    margin-bottom: 0px;
+}
+
+.latesthotrlsrt-right {
+    width: 100%;
+}
+
+.latesthotrlsrt-text h2 {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.latesthotrlsrt-text p {
+    font-size: 14px;
+    line-height: 24px;
+    padding-top: 8px;
+}
+
+
+.latesthotrlsrt-right ul li {
+    font-size: 13px;
+    border: 1px solid #0087A9;
+    width: 27px;
+    height: 27px;
+    line-height: 27px;
+    margin-right: 0px;
+}
+
+
+.latesthotrlsrt-box {
+    grid-row-gap: 30px;
+}
+
+
+
+.reviewsuser-img {
+    width: 50px;
+    height: 50px;
+    display: block;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+
+.reviewsuser-text h3 {
+    font-size: 14px;
+    padding-top: 0px;
+}
+
+
+
+.faqleft p {
+    font-size: 14px;
+    line-height: 25px;
+    margin: 0;
+    font-weight: 300;
+    padding-right: 0px;
+    margin-bottom: 0px;
+}
+
+
+.faqleft ul li {
+    margin-right: 5px;
+}
+
+.faqleft ul li a {
+    font-size: 13px;
+    font-weight: 600;
+    padding: 8px 16px;
+}
+
+.responsiblegambling-area {
+    padding: 40px 0;
+    padding-bottom: 40px;
+}
+
+.responsiblegambling-part h2 {
+    font-size: 25px;
+    line-height: 35px;
+    padding-bottom: 20px;
+}
+
+
+.responsiblegambling-part p {
+    font-size: 14px;
+    margin: 0;
+    line-height: 23px;
+    padding-bottom: 15px;
+}
+
+.responsiblegambling-part p br {
+    display: none;
+}
+
+.footerlogo-part img {
+    height: 57px;
+}
+
+
+.popupform-hd h2 {
+    font-size: 28px;
+}
+
+.popupform-hd {
+    padding-bottom: 18px;
+}
+
+
+
+
+.newhero-heading h2 {
+    font-size: 30px;
+    line-height: 35px;
+    padding-bottom: 16px;
+}
+
+.newhero-heading p {
+    font-size: 16px;
+}
+
+
+.newhero-heading {
+    padding-bottom: 40px;
+}
+
+.newheroitem1 h3 {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 25px;
+    padding-bottom: 14px;
+}
+
+.newheroitem1 p {
+    font-size: 14px;
+    margin: 0;
+    line-height: 25px;
+    font-weight: 400;
+}
+
+.newheroitem1 p br {
+    display: none;
+}
+
+.newheroitem1 h5 {
+    font-size: 14px;
+    line-height: 25px;
+    font-weight: 400;
+    padding-bottom: 10px;
+}
+
+.headerbrimg {
+    width: 132px;
+    height: 117px;
+}
+
+.herotextpart h1 {
+    font-size: 25px;
+    line-height: 40px;
+    padding-bottom: 15px;
+    text-align: center;
+}
+
+.herotextpart p br {
+    display: none;
+}
+
+.herotextpart p {
+    font-size: 14px;
+    line-height: 25px;
+    text-align: center;
+}
+
+.herotextpart a {
+    font-size: 14px;
+    padding: 12px 26px;
+    margin-top: 18px;
+}
+
+.herotextpart {
+    padding-bottom: 35px;
+}
+
+.heroright {
+    padding: 30px 10px;
+    box-sizing: border-box;
+    height: initial;
+}
+
+.heroright h2 {
+    font-size: 35px;
+    padding-bottom: 8px;
+}
+
+.heroright a {
+    font-size: 14px;
+    width: 147px;
+    height: 40px;
+    line-height: 40px;
+    margin-top: 22px;
+}
+
+
+.pyWrLottery-part {
+    padding-bottom: 35px;
+    display: block;
+    align-items: center;
+}
+
+.pyWrLottery-left {
+    width: 100%;
+    padding-bottom: 35px;
+}
+
+.pyWrLottery-left h2 {
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+
+.pyWrLottery-right {
+    width: 100%;
+}
+
+.pljsitem h2 {
+    font-size: 35px;
+    line-height: 37px;
+    padding-bottom: 8px;
+}
+
+.pljsitem1 {
+    padding-bottom: 40px;
+}
+
+.pljsitem2 {
+    padding-top: 40px;
+}
+
+.line2img {
+    top: 109px;
+    width: 300px;
+}
+
+.pljs-boxs {
+    width: 288px;
+    height: 218px;
+    margin: auto;
+}
+
+.line1img {
+    height: 234px;
+    width: 2px;
+}
+
+.latesthotrlsrt-box {
+    grid-template-columns: repeat(1, 1fr);
+    grid-column-gap: 35px;
+}
+
+.joinwinners-area {
+    padding: 40px 0;
+    padding-bottom: 0px;
+}
+
+.joinwinners-part {
+    display: block;
+    padding: 0px 15px;
+}
+
+.joinwinners-left {
+    width: 100%;
+    padding: 25px 0;
+}
+
+.joinwinners-right {
+    width: 100%;
+}
+
+.joinwinners-left h2 {
+    font-size: 25px;
+    padding-bottom: 16px;
+}
+
+.joinwinners-left p {
+    font-size: 14px;
+    line-height: 24px;
+}
+
+
+.joinwinners-left a {
+    font-size: 16px;
+    width: 140px;
+    height: 40px;
+    line-height: 40px;
+    margin-top: 23px;
+}
+
+.playreviews-heading h2 {
+    font-size: 25px;
+    padding-bottom: 18px;
+}
+
+
+.playreviews-heading p {
+    font-size: 14px;
+    line-height: 25px;
+    margin: 0;
+    font-weight: 400;
+    padding-right: 0px;
+    margin-bottom: 0px;
+}
+
+.playreviews-heading p br {
+    display: none;
+}
+
+.playreviews-heading {
+    padding-bottom: 25px;
+}
+
+
+.reviewsboxoitem2 p {
+    font-size: 12px;
+    line-height: 20px;
+    font-weight: 300;
+}
+
+
+.reviews-rating p {
+    font-size: 14px;
+}
+
+.reviews-rating p img {
+    height: 19px;
+    margin-right: 5px;
+}
+
+.reviewsboxoitem2 {
+    padding-bottom: 20px;
+}
+
+.mainfaqpart {
+    padding: 30px 15px;
+    background-size: 290px;
+}
+
+
+.cmfooterlogos {
+    display: none;
+}
+
+.mbfooterlogos {
+    display: block;
+}
+
+.footerright {
+    width: 100%;
+    padding-left: 0px;
+    padding-top: 13px;
+}
+
+.sociaicons-part ul {
+    padding-top: 15px;
+}
+
+.playreviews-part {
+    grid-template-columns: repeat(1, 1fr);
+    grid-row-gap: 25px;
+}
+
+.newhero-part {
+    padding: 35px 15px;
+    padding-bottom: 10px;
+}
+
+.newherott-area {
+    padding: 10px 0;
+    padding-bottom: 30px;
+}
+
+
+}
